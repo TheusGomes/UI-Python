@@ -1,3 +1,0 @@
-Nome: Matheus | endereco: Jaboatão
-Nome: Everton | endereco: Chanequinha
-Nome: Haniel | endereco: Torre
